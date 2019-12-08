@@ -1,6 +1,10 @@
 漂亮的图片占位符 - lorempixel
 ==========================
 
+## Youtube视频讲解
+
+https://youtu.be/5eheEW41aqw
+
 ## 知识点
 
 * 网页开发时的图片占位符工具(lorempixel)
